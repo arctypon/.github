@@ -33,7 +33,7 @@ Upstream Asterinas OSTD/OSDK components are licensed under MPL-2.0.
 
 ## Trademarks
 
-"arctypon"™ and the arctypon logo are trademarks of [靈月夜].
+"arctypon"™ and the arctypon logo are trademarks of 靈月夜 (Luna-night).
 The code licenses grant no trademark rights. Forks must be renamed and
 clearly marked as unofficial.
 
